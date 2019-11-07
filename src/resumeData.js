@@ -84,7 +84,7 @@ let resumeData = {
     {
       "name":"Crazy Talk",
       "description":"A Mad Libs Inspired Word Game",
-      "imgurl":"images/portfolio/crazytalk.jpg",
+      "imgurl":"images/portfolio/crazytalk.JPG",
       "imghref": "https://crazytalk-launch-this.herokuapp.com/"
     },
     {
